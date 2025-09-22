@@ -70,7 +70,7 @@ install_theme() {
   else
     case "$1" in
       standard)
-        local -r theme_color='#5294e2'
+        local -r theme_color='#ffca28'
         ;;
       black)
         local -r theme_color='#4d4d4d'

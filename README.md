@@ -22,6 +22,7 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | COLOR VARIANTS    | Explanation                           |
 |:------------------|:--------------------------------------|
 | `standard`        | Standard color folder version         |
+| `gnome`           | Gnome Nautilus color folder version            |
 | `black`           | Black color folder version            |
 | `blue`            | Blue color folder version             |
 | `brown`           | Brown color folder version            |
